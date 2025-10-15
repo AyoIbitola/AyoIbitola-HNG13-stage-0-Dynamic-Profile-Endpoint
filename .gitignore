@@ -1,0 +1,16 @@
+__pycache__# Byte-compiled / optimized / DLL files
+__pycache__/
+
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+
+
+
+
+*.env
+.env.*
+
